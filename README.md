@@ -217,11 +217,12 @@ while True:
 * *Lihat setelah tambah data*<br>
 ![lihat Hasil Tambah](Pict/Hasil4.png)<br>
 * *Ubah data, dan pada gambar dibawah adalah hasil dari perubahan data*<br>
-![lihat-ubah](pict/lihat-ubah.PNG)<br>
+![lihat-ubah](Pict/Hasil6.png)<br>
 * *Mencari data yang diinputkan*<br>
-![cari-data](pict/cari.PNG)<br>
+![cari-data](Pict/Hasil5.png)<br>
 * *Menghapus data yang diinputkan*<br>
-![hapus-data](pict/hapus.PNG)<br>
+![hapus-data](Pict/Hasil7.png)<br>
 * *Keluar dari program aplikasi*<br>
-![keluar](pict/keluar.PNG)<br>
-### Demikian tugas untuk pertemuan 9 module 5 yang bisa saya sampaikan, Terima kasih...
+![keluar](Pict/Hasil8.png)
+<br>
+### Berikut langkah langkah untuk tugas Pertemuan10 Pratikum5, Terimakasih...
