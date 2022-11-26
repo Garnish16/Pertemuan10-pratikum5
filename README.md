@@ -1,4 +1,4 @@
-# Pertemuan9-praktikum5
+# Pertemuan10-praktikum5
 
 Repositiry ini dibuat untuk memenuhi tugas Pertemuan 10 - Bahasa Pemrograman (Module Praktikum 5)<br><br>
 Nama : Garnish Andhika Pratama <br>
