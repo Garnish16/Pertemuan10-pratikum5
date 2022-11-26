@@ -223,6 +223,6 @@ while True:
 * *Menghapus data yang diinputkan*<br>
 ![hapus-data](Pict/Hasil7.png)<br>
 * *Keluar dari program aplikasi*<br>
-![keluar](Pict/Hasil8.png)
-<br>
-### Berikut langkah langkah untuk tugas Pertemuan10 Pratikum5, Terimakasih...
+![keluar](Pict/Hasil8.png)<br>
+
+## Berikut langkah langkah untuk tugas Pertemuan10 Module pratikum5, Terimakasih...
